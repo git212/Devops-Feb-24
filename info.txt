@@ -4,3 +4,4 @@ JP Morgan Chase
 Architect
 Skill,Jenkins, Docker, Kubernetes.
 some changes
+Skill,Jenkins, Docker, Kubernetes.  
