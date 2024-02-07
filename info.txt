@@ -2,4 +2,4 @@ Hari kammana
 Bangalore
 JP Morgan Chase
 Architect
-Skill,Jenkins, Docker, Kubernetes.
+Skill,Jenkins, Docker, Kubernetes.  
