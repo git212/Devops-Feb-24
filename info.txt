@@ -6,3 +6,4 @@ Skill,Jenkins, Docker, Kubernetes.
 some changes
 Skill,Jenkins, Docker, Kubernetes.  
 4 Year Experienc
+10 LPA
