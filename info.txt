@@ -8,3 +8,4 @@ Skill,Jenkins, Docker, Kubernetes.
 4 Year Experienc
 10 LPA
 hike 30%
+Sending on onsite
