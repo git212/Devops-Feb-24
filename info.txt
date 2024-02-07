@@ -7,4 +7,4 @@ some changes
 Skill,Jenkins, Docker, Kubernetes.  
 4 Year Experienc
 10 LPA
-Hike 30%
+hike 30%
