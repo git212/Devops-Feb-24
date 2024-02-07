@@ -5,3 +5,4 @@ Architect
 Skill,Jenkins, Docker, Kubernetes.
 some changes
 Skill,Jenkins, Docker, Kubernetes.  
+10 LPA
