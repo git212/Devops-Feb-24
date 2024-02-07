@@ -2,6 +2,10 @@ Hari kammana
 Bangalore
 JP Morgan Chase
 Architect
+<<<<<<< HEAD
 Skill,Jenkins, Docker, Kubernetes.
 some changes
 Skill,Jenkins, Docker, Kubernetes.  
+=======
+Skill,Jenkins, Docker, Kubernetes.
+>>>>>>> parent of 701e2c6 (some changes)
